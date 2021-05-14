@@ -1,0 +1,9 @@
+{
+    "reponse1" : "Vous êtes en insufficance pondérale (Maigreur), veuillez prendre un peu plus de poids.",
+    "reponse2" : "Vous avez un poids normal, continuez comme ça.",
+    "reponse3" : "Vous êtes en surpoids, faites attention à ce que consommer.",
+    "reponse4" : "Vous êtes en obésité modérée, faites attention à votre poids et contacter un médecin.",
+    "reponse5" : "Vous êtes en obésité sévère, consulter un médecin votre santé ce dégradera plus tard.",
+    "reponse6" : "Vous êtes en obésité morbide, consulter rapidement un médecin, il y a de gros risque pour votre santé."
+
+}
