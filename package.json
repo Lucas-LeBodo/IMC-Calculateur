@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/Lucas-LeBodo/IMC-Calculateur#readme",
   "dependencies": {
-    "chalk": "^4.1.1",
     "prompts": "^2.4.1"
   }
 }

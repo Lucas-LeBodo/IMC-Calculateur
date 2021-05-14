@@ -1,4 +1,3 @@
-const chalk = require('chalk');
 const prompts = require('prompts');
 const result = require('./result.json');
 
