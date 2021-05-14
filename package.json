@@ -18,6 +18,6 @@
   "homepage": "https://github.com/Lucas-LeBodo/IMC-Calculateur#readme",
   "dependencies": {
     "chalk": "^4.1.1",
-    "prompt-sync": "^4.2.0"
+    "prompts": "^2.4.1"
   }
 }
