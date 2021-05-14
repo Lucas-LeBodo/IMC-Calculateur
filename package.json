@@ -1,0 +1,23 @@
+{
+  "name": "imc-calculateur",
+  "version": "1.0.0",
+  "description": "Calculateur classique IMC",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-LeBodo/IMC-Calculateur.git"
+  },
+  "author": "Lucas_LB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucas-LeBodo/IMC-Calculateur/issues"
+  },
+  "homepage": "https://github.com/Lucas-LeBodo/IMC-Calculateur#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
